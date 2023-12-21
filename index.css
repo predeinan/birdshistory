@@ -1,0 +1,94 @@
+@charset "utf-8";
+
+#first {	
+	background-image: url("1.png");
+	background-size: cover;
+	font-family: gilroy;
+	color: #3D4750;
+	font-size: 18px;
+}
+
+#second {	
+	background-image: url("2.png");
+	background-size: cover;
+	font-family: gilroy;
+	color: #ffffff;
+	font-size: 18px;
+}
+
+#third {	
+	background-image: url("3.png");
+	background-size: cover;
+	font-family: gilroy;
+	font-size: 18px;
+}
+
+#fourth {	
+	background-image: url("4.png");
+	background-size: cover;
+	font-family: gilroy;
+	height: 471px;
+	color: #ffffff;
+}
+
+.page {
+	overflow:hidden;	
+	height: 100vh;
+}
+
+.first {
+	font-family: gilroy;
+	font-size: 18px;
+}
+
+.second {
+	font-family: gilroy;
+	font-size: 18px;
+}
+
+.fourth {
+	font-family: gilroy;
+	font-size: 18px;
+}
+
+.third {
+	font-family: gilroy;
+	font-size: 18px;
+}
+
+.seventh{
+	font-family: gilroy;
+	font-size: 25px;
+}
+
+a {
+	text-decoration: none;
+	}
+
+a:hover {
+	text-decoration: underline; 
+	color: #EE5D42;
+	border-bottom: 2px dashed #EE5D42;
+	padding-bottom: 2px;
+	}
+
+.b {
+	font-family: gilroy;
+	font-size: 22px;
+	margin-top: 20px;
+	color: #EE5D42;
+}
+
+
+.image {
+	position: relative;
+	width: 100%;
+}
+
+h2 {
+	font-family: gilroy;
+	position: absolute;
+	top: 20px;
+	left: 0;
+	width: 80%;
+}
